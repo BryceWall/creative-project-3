@@ -8,46 +8,46 @@ const Properties = () => {
         <div class="property-content">
           <div class="row">
             <div class="image">
-              <img src="../images/alaska.jpg" alt="alaska home" />
+              <img src="images/alaska.jpg" alt="alaska home" />
             </div>
             <div class="image">
-              <img src="../images/california-coast.jpg" alt="CA coastal home" />
+              <img src="images/california-coast.jpg" alt="CA coastal home" />
             </div>
             <div class="image">
-              <img src="../images/desert-home.jpg" alt=" Desert home" />
-            </div>
-          </div>
-          <div class="row">
-            <div class="image">
-              <img src="../images/full-home.jpg" alt=" Full home" />
-            </div>
-            <div class="image">
-              <img src="../images/home-trees.jpg" alt="home with home" />
-            </div>
-            <div class="image">
-              <img src="../images/indoor-home.jpg" alt="indoor home" />
+              <img src="images/desert-home.jpg" alt=" Desert home" />
             </div>
           </div>
           <div class="row">
             <div class="image">
-              <img src="../images/modern-townhome.jpg" alt="modern townhome" />
+              <img src="images/full-home.jpg" alt=" Full home" />
             </div>
             <div class="image">
-              <img src="../images/tall-woods.jpg" alt="tall trees around home" />
+              <img src="images/home-trees.jpg" alt="home with home" />
             </div>
             <div class="image">
-              <img src="../images/tiny-home.jpg" alt="tiny home" />
+              <img src="images/indoor-home.jpg" alt="indoor home" />
             </div>
           </div>
           <div class="row">
             <div class="image">
-              <img src="../images/winter-home.jpg" alt="winter home" />
+              <img src="images/modern-townhome.jpg" alt="modern townhome" />
             </div>
             <div class="image">
-              <img src="../images/blue-house.jpg" alt="blue home" />
+              <img src="images/tall-woods.jpg" alt="tall trees around home" />
             </div>
             <div class="image">
-              <img src="../images/lakehouse.jpg" alt="lakehouse home" />
+              <img src="images/tiny-home.jpg" alt="tiny home" />
+            </div>
+          </div>
+          <div class="row">
+            <div class="image">
+              <img src="images/winter-home.jpg" alt="winter home" />
+            </div>
+            <div class="image">
+              <img src="images/blue-house.jpg" alt="blue home" />
+            </div>
+            <div class="image">
+              <img src="images/lakehouse.jpg" alt="lakehouse home" />
             </div>
           </div>
         </div>

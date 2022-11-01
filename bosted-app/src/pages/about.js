@@ -10,7 +10,7 @@ const About = () => {
             <div class="peace-of-mind">
               <div class="about-images">
                 <img
-                  src="../images/clouds.svg"
+                  src="images/clouds.svg"
                   alt="Blue clouds representing peace of mind"
                 />
               </div>
@@ -33,7 +33,7 @@ const About = () => {
               </div>
               <div class="about-images">
                 <img
-                  src="../images/lock.svg"
+                  src="images/lock.svg"
                   alt="Lock representing security"
                 />
               </div>
@@ -41,7 +41,7 @@ const About = () => {
             <div class="streamlined">
               <div class="about-images">
                 <img
-                  src="../images/gears.svg"
+                  src="images/gears.svg"
                   alt="Gears representing streamlined process"
                 />
               </div>

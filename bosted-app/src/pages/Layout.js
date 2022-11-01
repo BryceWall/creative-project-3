@@ -6,7 +6,7 @@ const Layout = () => {
       <nav class="navbar navbar-expand-lg navbar-light bg-dark">
         <div class="navbar-brand">
           <div class="navbar-img">
-            <img src="../images/bosted.svg" alt="blue bosted logo" />
+            <img src="images/bosted.svg" alt="blue bosted logo" />
           </div>
           <div class="logo-title">
             <h1>bosted</h1>
