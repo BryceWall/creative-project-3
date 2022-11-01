@@ -11,7 +11,7 @@ import Map from "./pages/map";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/creative-project-3/bosted-app/build/">
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
